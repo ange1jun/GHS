@@ -1,3 +1,6 @@
+GHS <br/>
+Gwangju-Health-Informatin-System
+
 Use tool <br/>
 DB: Oracle DB <br/>
 Editor: VS code <br/>
