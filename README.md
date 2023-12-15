@@ -1,5 +1,5 @@
-Use tool
-DB: oracle DB
+Use tool /n
+DB: oracle DB /n
 Editor: VS code
 
 DB ERD
