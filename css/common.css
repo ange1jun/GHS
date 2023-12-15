@@ -1,0 +1,56 @@
+* { padding: 0; margin: 0; }
+
+body { font-family: "돋움";   font-size: 14px; background-color: #FFE4E1;}
+
+ul { list-style-type: none; 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     background-color: #333;   }
+
+a { display: inline-block; text-decoration: none; }
+a:link { text-decoration:none; color: #222222; }
+a:hover { text-decoration:none; color: #222222; }
+a:visited { text-decoration:none; color: #222222; }
+a:active { text-decoration:none; color: #222222; }
+
+#logo header {text-align: center;font-size: 35px; font-family: Arial; color: black; padding: 40px 40px; font-family: 'Kdam Thmor Pro', sans-serif;}
+
+#menu li {float: right; }
+#menu li a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; } 
+#menu li a:hover { background-color: rgb(224, 224, 255); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    position : fixed;
+    bottom : 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+    color: white;
+    background: brown;
+    font-size:0.7em;
+    }
