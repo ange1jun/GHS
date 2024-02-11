@@ -21,27 +21,6 @@ a:active { text-decoration:none; color: #222222; }
 #menu li a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; } 
 #menu li a:hover { background-color: rgb(224, 224, 255); }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer {
     position : fixed;
     bottom : 0;
