@@ -67,7 +67,7 @@ li a:hover {
   <li><a class="active" href="gym/gym_list.php"> 운동시설 </a></li>
   <li><a class="active" href="location.php">찾아오시는길</a></li>
 </ul>
-<br>
+<br> 
 오시는길
 <span class="material-icons">
 sticky_note_2
