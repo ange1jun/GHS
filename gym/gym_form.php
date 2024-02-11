@@ -15,7 +15,6 @@ footer {
     color: white;
     background: brown;
     font-size:0.7em;
-    
 }
 header{
     text-align: center;

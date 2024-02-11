@@ -157,6 +157,5 @@ Copyright © 2022 GHS. All Rights Reserved.
 				<span class="col2"><br><?=$content?></span>
                 <span class="col3"><br><br><br><?=$mid?>님이 작성한 글입니다.</span>
 
-
 </form>
 </ul>
